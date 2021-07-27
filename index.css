@@ -1,0 +1,12 @@
+html, body{
+  height: 100%;
+}
+
+#search-container{
+  background-color: lightgray;
+  height: 100%;
+} 
+
+#daily{
+  border: 1px solid lightgray
+}
