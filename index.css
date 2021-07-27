@@ -2,6 +2,15 @@ html, body{
   height: 100%;
 }
 
+.city-container{
+  display: flex;
+}
+
+.card-body{
+  background-color: blue;
+  color: white
+}
+
 #search-container{
   /* background-color: lightgray; */
   height: 100%;
@@ -9,4 +18,9 @@ html, body{
 
 #daily{
   border: 1px solid lightgray
+}
+
+#fiveday{
+  display: flex;
+  justify-content: space-between;
 }
